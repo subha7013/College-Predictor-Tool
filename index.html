@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Counsellor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>College Predictor Tool</h1>
+            <p>Enter your rank to predict possible colleges and branches.</p>
+        </header>
+
+        <form id="rank-form">
+            <label for="exam">Select Exam Type:</label>
+            <select id="exam" required>
+                <option>---Select an Option---</option>
+                <option value="jee-main">JEE Main</option>
+                <option value="jee-advanced">JEE Advanced</option>
+                <option value="wbjee">WBJEE</option>
+            </select>
+
+            <label for="rank">Enter Your Rank:</label>
+            <input type="number" id="rank" required placeholder="Enter your rank">
+            <label for="preference">Select your preference: </label>
+            <select id="preference" required>
+                <option>---Select an Option---</option>
+                <option value="Computer Science Engineering">Computer Science & Engineering</option>
+                <option value="Information Technology">Information Technology</option>
+                <option value="Electrical Engineering">Electrical Engineering</option>
+                <option value="Electronics & Communication Engineering">Electronics & Communication Engineering</option>
+            </select>
+
+            <label for="category">Select Your Category:</label>
+            <select id="category" required>
+                <option>---Select an Option---</option>
+                <option value="general">General</option>
+                <option value="obc">OBC</option>
+                <option value="sc">SC</option>
+                <option value="st">ST</option>
+            </select>
+
+            <button type="submit">Predict Colleges</button>
+        </form>
+
+        <div id="prediction-results" class="results">
+            <!-- Predicted colleges will be displayed here -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,160 @@
+{
+    "jee-main": {
+      "general": [
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Computer Science Engineering","rank": 1200},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Information Technology","rank": 1400},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Electrical Engineering","rank": 2400},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Electronics & Communication Engineering","rank": 2600},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Computer Science Engineering","rank": 1400},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Information Technology","rank": 1600},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Electrical Engineering","rank": 1800},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Electronics & Communication Engineering","rank": 2000},
+        {"name": "TECHNO MAIN","branch": "Computer Science Engineering","rank": 100},
+        {"name": "TECHNO MAIN","branch": "Information Technology","rank": 200},
+        {"name": "TECHNO MAIN","branch": "Electrical Engineering","rank": 1500},
+        {"name": "TECHNO MAIN","branch": "Electronics & Communication Engineering","rank": 1700},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Computer Science Engineering","rank": 1350},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Information Technology","rank": 750},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Electrical Engineering","rank": 2000},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Electronics & Communication Engineering","rank": 2200}
+      ],
+      "obc": [
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Computer Science Engineering","rank": 2000},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Information Technology","rank": 2200},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Electrical Engineering","rank": 2400},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Electronics & Communication Engineering","rank": 2600},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Computer Science Engineering","rank": 2200},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Information Technology","rank": 2500},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Electrical Engineering","rank": 3000},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Electronics & Communication Engineering","rank": 3200},
+        {"name": "TECHNO MAIN","branch": "Computer Science Engineering","rank": 1200},
+        {"name": "TECHNO MAIN","branch": "Information Technology","rank": 1500},
+        {"name": "TECHNO MAIN","branch": "Electrical Engineering","rank": 2600},
+        {"name": "TECHNO MAIN","branch": "Electronics & Communication Engineering","rank": 2800},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Computer Science Engineering","rank": 1400},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Information Technology","rank": 1600},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Electrical Engineering","rank": 3500},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Electronics & Communication Engineering","rank": 3700}
+      ],
+      "sc": [
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Computer Science Engineering","rank": 2500},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Information Technology","rank": 2800},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Electrical Engineering","rank": 5000},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Electronics & Communication Engineering","rank": 5200},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Computer Science Engineering","rank": 3000},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Information Technology","rank": 3500},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Electrical Engineering","rank": 4600},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Electronics & Communication Engineering","rank": 4800},
+        {"name": "TECHNO MAIN","branch": "Computer Science Engineering","rank": 1800},
+        {"name": "TECHNO MAIN","branch": "Information Technology","rank": 2000},
+        {"name": "TECHNO MAIN","branch": "Electrical Engineering","rank": 4000},
+        {"name": "TECHNO MAIN","branch": "Electronics & Communication Engineering","rank": 4200},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Computer Science Engineering","rank": 2900},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Information Technology","rank": 3200},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Electrical Engineering","rank": 5500},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Electronics & Communication Engineering","rank": 5700}
+      ],
+      "st": [
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Computer Science Engineering","rank": 4500},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Information Technology","rank": 5000},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Electrical Engineering","rank": 6000},
+        {"name": "ACADEMY OF TECHNOLOGY","branch": "Electronics & Communication Engineering","rank": 6200},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Computer Science Engineering","rank": 5000},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Information Technology","rank": 5500},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Electrical Engineering","rank": 6500},
+        {"name": "MCKV INSTITUTE OF ENGINEERING","branch": "Electronics & Communication Engineering","rank": 6700},
+        {"name": "TECHNO MAIN","branch": "Computer Science Engineering","rank": 2500},
+        {"name": "TECHNO MAIN","branch": "Information Technology","rank": 2500},
+        {"name": "TECHNO MAIN","branch": "Electrical Engineering","rank": 3500},
+        {"name": "TECHNO MAIN","branch": "Electronics & Communication Engineering","rank": 3700},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Computer Science Engineering","rank": 5000},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Information Technology","rank": 5500},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Electrical Engineering","rank": 8000},
+        {"name": "JIS COLLEGE OF ENGINEERING","branch": "Electronics & Communication Engineering","rank": 8200}
+      ]
+    },
+    "jee-advanced": {
+      "general": [
+        {"name": "IIT KGP","branch": "Computer Science Engineering","rank": 200},
+        {"name": "IIT KGP","branch": "Electronics & Communication Engineering","rank": 350},
+        {"name": "IIT DELHI","branch": "Computer Science Engineering","rank": 400},
+        {"name": "IIT DELHI","branch": "Electronics & Communication Engineering","rank": 600},
+        {"name": "IIT BBSR","branch": "Electrical Engineering","rank": 600},
+        {"name": "IIT BBSR","branch": "Electronics & Communication Engineering","rank": 700},
+        {"name": "IIT BOMBAY","branch": "Computer Science Engineering","rank": 150},
+        {"name": "IIT MADRAS","branch": "Electrical Engineering","rank": 550},
+        {"name": "IIT MADRAS","branch": "Electronics & Communication Engineering","rank": 650},
+        {"name": "IIT KANPUR","branch": "Mechanical Engineering","rank": 800},
+        {"name": "IIT ROORKEE","branch": "Information Technology","rank": 1000},
+        {"name": "IIT GUWAHATI","branch": "Electronics & Communication Engineering","rank": 900}
+      ],
+      "obc": [
+        {"name": "IIT KGP","branch": "Computer Science Engineering","rank": 400},
+        {"name": "IIT KGP","branch": "Electronics & Communication Engineering","rank": 550},
+        {"name": "IIT DELHI","branch": "Electrical Engineering","rank": 800},
+        {"name": "IIT DELHI","branch": "Electronics & Communication Engineering","rank": 1000},
+        {"name": "IIT MADRAS","branch": "Electronics & Communication Engineering","rank": 1000},
+        {"name": "IIT BOMBAY","branch": "Mechanical Engineering","rank": 1100},
+        {"name": "IIT ROORKEE","branch": "Civil Engineering","rank": 1500}
+      ],
+      "sc": [
+        {"name": "IIT KGP","branch": "Computer Science Engineering","rank": 1500},
+        {"name": "IIT KGP","branch": "Electronics & Communication Engineering","rank": 1700},
+        {"name": "IIT DELHI","branch": "Computer Science Engineering","rank": 1800},
+        {"name": "IIT DELHI","branch": "Electronics & Communication Engineering","rank": 2000},
+        {"name": "IIT BBSR","branch": "Electrical Engineering","rank": 2500},
+        {"name": "IIT BBSR","branch": "Electronics & Communication Engineering","rank": 2700}
+      ],
+      "st": [
+        {"name": "IIT KGP","branch": "Computer Science Engineering","rank": 3500},
+        {"name": "IIT KGP","branch": "Electronics & Communication Engineering","rank": 3700},
+        {"name": "IIT BOMBAY","branch": "Electrical Engineering","rank": 3800},
+        {"name": "IIT BOMBAY","branch": "Electronics & Communication Engineering","rank": 4000},
+        {"name": "IIT MADRAS","branch": "Mechanical Engineering","rank": 4000},
+        {"name": "IIT MADRAS","branch": "Electronics & Communication Engineering","rank": 4200}
+      ]
+    },
+    "wbjee": {
+      "general": [
+        {"name": "Jadavpur University","branch": "Computer Science Engineering","rank": 4500},
+        {"name": "Jadavpur University","branch": "Information Technology","rank": 5000},
+        {"name": "Jadavpur University","branch": "Electrical Engineering","rank": 6000},
+        {"name": "Jadavpur University","branch": "Electronics & Communication Engineering","rank": 6200},
+        {"name": "Kalyani Government Engineering College","branch": "Computer Science Engineering","rank": 5000},
+        {"name": "Kalyani Government Engineering College","branch": "Information Technology","rank": 5500},
+        {"name": "Kalyani Government Engineering College","branch": "Electrical Engineering","rank": 6500},
+        {"name": "Kalyani Government Engineering College","branch": "Electronics & Communication Engineering","rank": 6700}
+      ],
+      "obc": [
+        {"name": "Jadavpur University","branch": "Computer Science Engineering","rank": 3000},
+        {"name": "Jadavpur University","branch": "Information Technology","rank": 4500},
+        {"name": "Jadavpur University","branch": "Electrical Engineering","rank": 5500},
+        {"name": "Jadavpur University","branch": "Electronics & Communication Engineering","rank": 5700},
+        {"name": "Kalyani Government Engineering College","branch": "Computer Science Engineering","rank": 4500},
+        {"name": "Kalyani Government Engineering College","branch": "Information Technology","rank": 5000},
+        {"name": "Kalyani Government Engineering College","branch": "Electrical Engineering","rank": 6000},
+        {"name": "Kalyani Government Engineering College","branch": "Electronics & Communication Engineering","rank": 6200}
+      ],
+      "sc": [
+        {"name": "Jadavpur University","branch": "Computer Science Engineering","rank": 7000},
+        {"name": "Jadavpur University","branch": "Information Technology","rank": 7500},
+        {"name": "Jadavpur University","branch": "Electrical Engineering","rank": 8500},
+        {"name": "Jadavpur University","branch": "Electronics & Communication Engineering","rank": 8700},
+        {"name": "Kalyani Government Engineering College","branch": "Computer Science Engineering","rank": 8000},
+        {"name": "Kalyani Government Engineering College","branch": "Information Technology","rank": 8500},
+        {"name": "Kalyani Government Engineering College","branch": "Electrical Engineering","rank": 9000},
+        {"name": "Kalyani Government Engineering College","branch": "Electronics & Communication Engineering","rank": 9200}
+      ],
+      "st": [
+        {"name": "Jadavpur University","branch": "Computer Science Engineering","rank": 10000},
+        {"name": "Jadavpur University","branch": "Information Technology","rank": 11000},
+        {"name": "Jadavpur University","branch": "Electrical Engineering","rank": 12000},
+        {"name": "Jadavpur University","branch": "Electronics & Communication Engineering","rank": 12200},
+        {"name": "Kalyani Government Engineering College","branch": "Computer Science Engineering","rank": 11000},
+        {"name": "Kalyani Government Engineering College","branch": "Information Technology","rank": 11500},
+        {"name": "Kalyani Government Engineering College","branch": "Electrical Engineering","rank": 12500},
+        {"name": "Kalyani Government Engineering College","branch": "Electronics & Communication Engineering","rank": 12700}
+      ]
+    }
+  }
+  
